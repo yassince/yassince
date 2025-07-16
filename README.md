@@ -51,7 +51,6 @@
 <p align="center">
   ✨ Estas herramientas hacen mi flujo de trabajo más rápido, ordenado y placentero.
 </p>
----
 
 ## 🌐 Conecta conmigo
 
