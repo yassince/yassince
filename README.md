@@ -1,7 +1,7 @@
 <h1 align="center">✨ Hola, soy [Tu Nombre] ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Desarrollador+Web+Full+Stack;Apasionado+por+el+Frontend+y+Backend;SSiempre+aprendiendo+nuevas+tecnolog%C3%ADas" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Desarrollador+Web+Full+Stack;Apasionado+por+el+Frontend+y+Backend" />
 </p>
 
 ---
