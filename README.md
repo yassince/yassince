@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hola, soy [Tu Nombre] ✨</h1>
+<h1 align="center">✨ Hola, soy Yassin Charrouf Errynda ✨</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Desarrollador+Web+Full+Stack;Apasionado+por+el+Frontend+y+Backend" />
@@ -11,7 +11,7 @@
 💡 Soy un **Desarrollador Web Full Stack** con enfoque en crear experiencias digitales modernas, rápidas y responsivas. Me gusta construir cosas útiles, limpias y bien pensadas.
 
 - 🎯 Actualmente trabajando en proyectos personales y freelance.
-- 📚 Siempre aprendiendo algo nuevo: últimamente profundizando en **Next.js** y **Docker**.
+- 📚 Siempre aprendiendo algo nuevo: últimamente profundizando en **Next.js**.
 - ⚡ Me encanta la automatización, el rendimiento y la buena documentación.
 - 💬 Pregúntame sobre JavaScript, React, Node.js o cualquier cosa técnica.
 
@@ -52,17 +52,10 @@
 ## 🌐 Conecta conmigo
 
 <p align="center">
-  <a href="mailto:tuemail@ejemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/TU_USUARIO/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:charrouferrynda.yassin@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/yassin-charrouf-errynda-73a208374/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/TU_USUARIO"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://tuportafolio.com"><img src="https://img.shields.io/badge/Portafolio-000?style=for-the-badge&logo=firefox-browser&logoColor=white" /></a>
 </p>
-
----
-
-## ⚡ Frase que me inspira
-
-> _"Hazlo simple, pero significativo."_ — Don Draper
 
 ---
 
