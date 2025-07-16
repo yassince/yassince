@@ -1,65 +1,71 @@
-# ¡Hola a todos! 👋 Soy [Tu Nombre]
+<h1 align="center">✨ Hola, soy [Tu Nombre] ✨</h1>
 
-### Acerca de Mí
-
-Soy un [Tu Rol/Profesión, ej: Desarrollador Full-Stack, Estudiante de Ingeniería Informática] apasionado por [Tu Área de Interés, ej: desarrollo web, inteligencia artificial, ciberseguridad]. Me encanta aprender nuevas tecnologías y construir proyectos que resuelvan problemas.
-
--   🔭 Actualmente estoy trabajando en [Un proyecto actual o un área de estudio].
--   🌱 Siempre estoy aprendiendo [Una tecnología o habilidad específica que estás adquiriendo].
--   👯 Busco colaborar en [Tipo de proyectos o tecnologías donde te gustaría contribuir].
--   💬 Pregúntame sobre [Un tema en el que seas experto o te guste hablar, ej: JavaScript, bases de datos, Node.js].
--   ⚡ Dato curioso: [Un dato curioso sobre ti o un hobby].
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Desarrollador+Web+Full+Stack;Apasionado+por+el+Frontend+y+Backend;Siempre+aprendiendo+nuevas+tecnolog%C3%ADas" />
+</p>
 
 ---
 
-### Mis Habilidades
+## 🧑‍💻 Sobre mí
 
-Aquí puedes listar las tecnologías y herramientas con las que trabajas. Considera usar iconos para hacerlo más visual.
+💡 Soy un **Desarrollador Web Full Stack** con enfoque en crear experiencias digitales modernas, rápidas y responsivas. Me gusta construir cosas útiles, limpias y bien pensadas.
 
-**Lenguajes:**
-`JavaScript` `Python` `Java` `PHP` `TypeScript`
-
-**Frameworks/Librerías:**
-`React` `Node.js` `Express.js` `Django` `Spring Boot` `Vue.js`
-
-**Bases de Datos:**
-`PostgreSQL` `MySQL` `MongoDB` `Redis`
-
-**Herramientas/Plataformas:**
-`Git` `Docker` `AWS` `Render` `Netlify` `VS Code` `Linux`
+- 🎯 Actualmente trabajando en proyectos personales y freelance.
+- 📚 Siempre aprendiendo algo nuevo: últimamente profundizando en **Next.js** y **Docker**.
+- ⚡ Me encanta la automatización, el rendimiento y la buena documentación.
+- 💬 Pregúntame sobre JavaScript, React, Node.js o cualquier cosa técnica.
 
 ---
 
-### Proyectos Destacados
+## 🚀 Tech Stack
 
-Puedes listar algunos de tus proyectos más importantes con enlaces.
+<div align="center">
+  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node-dot-js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-* **[Nombre del Proyecto 1]** - [Breve descripción del proyecto].
-    * [Enlace al repositorio](https://github.com/tu_usuario/nombre_del_proyecto_1)
-    * [Enlace a la demo (si aplica)](https://demo-del-proyecto-1.com)
-
-* **[Nombre del Proyecto 2]** - [Breve descripción del proyecto].
-    * [Enlace al repositorio](https://github.com/tu_usuario/nombre_del_proyecto_2)
-    * [Enlace a la demo (si aplica)](https://demo-del-proyecto-2.com)
-
----
-
-### Conéctate Conmigo
-
-Aquí puedes poner enlaces a tus redes sociales profesionales o tu portafolio.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu_perfil_linkedin/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tu_usuario_twitter)
-[![Portafolio](https://img.shields.io/badge/Portafolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tu_portafolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu_email@example.com)
+</div>
 
 ---
 
-### Estadísticas de GitHub (Opcional, pero Popular)
+## 📊 GitHub Stats
 
-Puedes añadir widgets para mostrar tus estadísticas de GitHub o lenguajes más usados.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
-```markdown
-[![Tu Perfil de GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+## 🌐 Conecta conmigo
+
+<p align="center">
+  <a href="mailto:tuemail@ejemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/TU_USUARIO/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/TU_USUARIO"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://tuportafolio.com"><img src="https://img.shields.io/badge/Portafolio-000?style=for-the-badge&logo=firefox-browser&logoColor=white" /></a>
+</p>
+
+---
+
+## ⚡ Frase que me inspira
+
+> _"Hazlo simple, pero significativo."_ — Don Draper
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=100&section=footer"/>
+</p>
